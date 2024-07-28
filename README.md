@@ -1,4 +1,4 @@
-## Predictive Modeling with Linear Regression on Weather Prediction Dataset
+## Credit Card Fraud Detection
 
 ![image](https://github.com/user-attachments/assets/754f9667-76f9-442e-b9d5-ba9e515240cd)
 
